@@ -6,6 +6,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+/* header */
 header {
     height: 100px;
     border-bottom: 1px solid lightgray;
@@ -48,3 +49,18 @@ a {
     color: #4154fe;
     border-bottom: 3px solid #4154fe;
 }
+
+/* main */
+.container {
+    width: 60%;
+    margin: 80px auto;
+}
+
+main h2 {
+    margin-bottom: 10px;
+}
+
+.highlighted {
+    color: #4154fe;  
+}
+
